@@ -27,7 +27,7 @@ namespace core
 {
 namespace posix
 {
-namespace linux
+namespace Linux
 {
 namespace proc
 {
