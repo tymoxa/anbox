@@ -29,7 +29,7 @@ namespace core
 namespace posix
 {
 class Process;
-namespace linux
+namespace Linux
 {
 namespace proc
 {
